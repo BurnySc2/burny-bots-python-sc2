@@ -1,0 +1,11 @@
+{
+
+	"Bots": {
+		"CreepyBot": {
+			"Race": "Zerg",
+			"Type": "Python",
+			"RootPath": "Bots/CreepyBot",
+			"FileName": "run.py"
+		}
+	}
+}
